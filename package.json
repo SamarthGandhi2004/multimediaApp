@@ -1,0 +1,23 @@
+{
+  "name": "multimedia_app",
+  "version": "1.0.0",
+  "description": "multimedia app backend code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "frameworks",
+    "and",
+    "Adventurous",
+    "Complex",
+    "code",
+    "aka",
+    "Production",
+    "Code"
+  ],
+  "author": "Samarth Gandhi",
+  "license": "ISC"
+}
